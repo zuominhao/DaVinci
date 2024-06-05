@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JR1\minhao\DaVinci\build\CMakeFiles\64da8901e6e0a062c13376775c9f9e07\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{161EA06F-5B4E-33BB-B3F4-E4CCEB4ACD20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
